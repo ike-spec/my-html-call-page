@@ -1,0 +1,26 @@
+.it-personel-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.it-personel-dummy-container {
+  width: 100%;
+  height: 900px;
+}
+ 
+.it-personel-text {
+  color: rgba(44, 51, 116, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
